@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600;700&display=swap');
+
+body {
+	margin: 100px;
+    text-align: center;
+	}
+
+.ul {
+    float: left;
+}
+.h1 {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 44;
+    padding: 10px;
+}
+
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 190px;
+    overflow: hidden;
+  }
+  
+li.nav {
+    float: left;
+    text-align: center;
+    padding-left: 0px;
+    margin: 20px;
+    font-family: Ubuntu;
+    font-size: 20;
+    width: 150px;
+  }
+
+.about {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 25;
+	width: 750px; 
+	margin-top: 10px;
+    padding: 0px 275px;
+}
+
+.aboutme {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	width: 750px; 
+	font-size: 20;
+	margin-top: 20px;
+	margin-bottom: 160px;
+    padding: 0px 275px;
+}
+
+.headings {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 30;
+	width: 450px;
+	letter-spacing: 0.4rem;
+	margin-bottom: 5px;
+	margin-top: -60px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.groupodd {
+	height: 400px;
+	margin-top: 50px;
+}
+
+.textright {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 35;
+	width: 50%; 
+	float: right;
+    text-align: left;
+}
+
+.pic2 {
+	width: 50%; 
+	display: inline-block;
+	height:100%;
+}
+
+.roleright {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 20;
+	margin-bottom: 250px;
+	margin-top: 20px;
+}
+
+.groupeven {
+	height: 400px;
+	margin-top: 50px; 
+}
+
+.textleft {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 35;
+	width: 50%; 
+	display: inline-block;
+    text-align: left;
+}
+
+.roleleft {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 20;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.pic3 {
+	width: 50%; 
+	float: right; 
+	display: inline-block;
+	height:100%;
+}
+.lists {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 20;
+    text-align: left;
+}
+
+.portfolio {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 15;
+	text-align: right;
+}
+
+.contact {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 15;
+	text-align: center;
+}
+
+.deets {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 10;
+	text-align: center;
+}
+
+.proj1 {
+	height: 400px;
+}
