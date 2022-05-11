@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600;700&display=swap');
+
+body {
+	margin: 100px;
+	}
+
+.h1 {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 54;
+}
+
+.about {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 25;
+	width: 750px; 
+	margin-top: 10px;
+}
+
+.aboutme {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	width: 750px; 
+	font-size: 20;
+	margin-top: 20px;
+	margin-bottom: 160px;
+}
+
+.headings {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 30;
+	width: 450px;
+	letter-spacing: 0.4rem;
+	margin-bottom: 5px;
+	margin-top: -60px;
+}
+
+.groupodd {
+	height: 400px;
+	margin-top: 50px;
+}
+
+.textright {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 35;
+	width: 50%; 
+	float: right;
+}
+
+.pic2 {
+	width: 50%; 
+	display: inline-block;
+	height:100%;
+}
+
+.roleright {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 20;
+	margin-bottom: 250px;
+	margin-top: 20px;
+}
+
+.groupeven {
+	height: 400px;
+	margin-top: 50px; 
+}
+
+.textleft {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 35;
+	width: 50%; 
+	display: inline-block;
+}
+
+.roleleft {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 20;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.pic3 {
+	width: 50%; 
+	float: right; 
+	display: inline-block;
+	height:100%;
+}
+.lists {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 20;
+}
+
+.portfolio {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 15;
+	text-align: right;
+}
+
+.contact {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 15;
+	text-align: center;
+}
+
+.deets {
+	color: #4f4f4f;
+	font-family: Ubuntu;
+	font-size: 10;
+	text-align: center;
+}
+
+.proj1 {
+	height: 400px;
+}
